@@ -1,6 +1,6 @@
 vuejs-slots
 -----------
-See:
+See:<br>
 slots-default-1
 slots-default-2
 slots-named-1
