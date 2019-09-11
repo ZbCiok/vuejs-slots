@@ -1,3 +1,5 @@
+// MyDefaultSlot.vue
+
 <template>
   <div>
     <slot>

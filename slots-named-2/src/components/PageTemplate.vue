@@ -1,3 +1,5 @@
+// PageTemplate.vue
+
 <template>
   <div>
     <header>

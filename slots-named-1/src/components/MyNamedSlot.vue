@@ -1,3 +1,5 @@
+// MyNamedSlot.vue
+
 <template>
   <div>
     <slot name="title"></slot>

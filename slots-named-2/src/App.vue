@@ -1,15 +1,17 @@
+// App.vue
+
 <template>
   <div id="app">
     <page-template>
-      <template #header>
+      <template #header="">
         <h3>Page Header</h3>
       </template>
 
-      <template #content>
+      <template #content="">
         <h3>Page Content</h3>
       </template>
 
-      <template #footer>
+      <template #footer="">
         <h3>Page Footer</h3>
       </template>
     </page-template>

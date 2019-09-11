@@ -1,3 +1,5 @@
+// MyCar.vue
+
 <template>
   <span>
     <slot v-bind:car="car">
